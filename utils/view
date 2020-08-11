@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+source env/bin/activate
+python view/gnd.py > view/gnd.log 2>&1
+deactivate

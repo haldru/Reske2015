@@ -1,0 +1,2900 @@
+{
+  "119837692": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/119837692",
+    "preferredName": "Wolfgang Stöckel",
+    "surname": "Stöckel",
+    "forename": "Wolfgang",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:14Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/119837692"
+    },
+    "@type": "person",
+    "variantName": [
+      "Wolfgang Buchtrucker",
+      "Wolffgangus Molitor de Monaco",
+      "Wolfgangus Monacensis",
+      "Wolfgangus Steckel",
+      "Wolffgangus Stöckel",
+      "Wolffgangus Stöckel de Monaco",
+      "Wolffgang Stöckel",
+      "Wolfgang Stöcklein",
+      "Wolfgang Stöcklin",
+      "Wolff Stockel",
+      "Wolffgang Stockel",
+      "Wolfgangus Stockel",
+      "Vuolfgangus, Baccalaureus",
+      "Wolfgang, Buchtrucker",
+      "Wolfgangus, Baccalaureus",
+      "Wolfgangus, Monacensis",
+      "Wolffgangus, Monacensis",
+      "Wolffgangus Monacensis",
+      "Wolfgangus de Monaco",
+      "Wolfgangus Monacensis"
+    ],
+    "realIdentity": [
+      {
+        "preferredName": "Wolfgang Müller"
+      }
+    ],
+    "dateOfBirth": "1473",
+    "dateOfDeath": "1541",
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4035206-7",
+        "preferredName": "Leipzig"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4066640-2",
+        "preferredName": "Wittenberg"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4012995-0",
+        "preferredName": "Dresden"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE",
+        "preferredName": "Deutschland"
+      }
+    ],
+    "professionOrOccupation": [
+      {
+        "@id": "https://d-nb.info/gnd/4146801-6",
+        "preferredName": "Buchdrucker"
+      }
+    ],
+    "gender": {
+      "@id": "https://d-nb.info/standards/vocab/gnd/gender#male",
+      "label": "Mann"
+    },
+    "biographicalOrHistoricalInformation": "Aus Obermönchen (Niederbayern). Trat nach Studium in Erfurt 1494 oder 1495 in Leipzig in die Druckerei des Arnold Neumarkt von Köln ein und heiratete 1497 dessen Witwe. Er unterhielt auch Zweigdruckereien in Eilenburg und Grimma. Um 1525 verheiratete er sich zum 3. Mal und ging 1526 nach Dresden. Er setzte hier die Tradition der Emserpresse im Dienst der Reformationsgegner fort; mit dem Sieg der Reformation in Dresden 1539 trat seine Presse wieder in ihre Dienste. Seine Witwe druckte hier noch bis 1542",
+    "affiliation": [
+      {
+        "@id": "https://d-nb.info/gnd/1072886316",
+        "preferredName": "Wolfgang Stoeckel (Leipzig)"
+      }
+    ],
+    "relatedPerson": [
+      {
+        "relationship": "Kunstadt; VD-16 Mitverf.",
+        "preferredName": "Johannes Kellner"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/119837692/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "http://www.deutsche-biographie.de/pnd119837692.html#adbcontent",
+        "collection": {
+          "abbr": "ADB",
+          "name": "Allgemeine Deutsche Biographie (ADB)",
+          "publisher": "Historische Kommission bei der Bayerischen Akademie der Wissenschaften und Bayerische Staatsbibliothek",
+          "icon": "https://www.deutsche-biographie.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "https://de.wikipedia.org/wiki/Wolfgang_St%C3%B6ckel",
+        "collection": {
+          "abbr": "dewiki",
+          "name": "Wikipedia (Deutsch)",
+          "publisher": "Wikimedia Foundation Inc.",
+          "icon": "https://de.wikipedia.org/static/favicon/wikipedia.ico"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/119837692",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://id.loc.gov/rwo/agents/nr94022180",
+        "collection": {
+          "abbr": "LC",
+          "name": "NACO Authority File",
+          "publisher": "Library of Congress",
+          "icon": "http://www.loc.gov/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://isni.org/isni/0000000123521018",
+        "collection": {
+          "abbr": "ISNI",
+          "name": "International Standard Name Identifier (ISNI)",
+          "publisher": "International Standard Name Identifier (ISNI)",
+          "icon": "http://www.isni.org/sites/default/files/isni_new_favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/173374621",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q45179169",
+        "collection": {
+          "abbr": "WIKIDATA",
+          "name": "Wikidata",
+          "publisher": "Wikimedia Foundation Inc.",
+          "icon": "https://www.wikidata.org/static/favicon/wikidata.ico"
+        }
+      }
+    ]
+  },
+  "1037540638": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/1037540638",
+    "preferredName": "Hans Frischmut",
+    "surname": "Frischmut",
+    "forename": "Hans",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:14Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/1037540638"
+    },
+    "@type": "person",
+    "variantName": [
+      "Joannes Frischemut",
+      "Johann Frischemut",
+      "Joannes Frischmut"
+    ],
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4066640-2",
+        "preferredName": "Wittenberg"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE",
+        "preferredName": "Deutschland"
+      }
+    ],
+    "professionOrOccupation": [
+      {
+        "@id": "https://d-nb.info/gnd/4013091-5",
+        "preferredName": "Drucker"
+      }
+    ],
+    "gender": {
+      "@id": "https://d-nb.info/standards/vocab/gnd/gender#male",
+      "label": "Mann"
+    },
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/1037540638/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/1037540638",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/218150747071116302182",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "115801103": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/115801103",
+    "preferredName": "Urban Gaubisch",
+    "surname": "Gaubisch",
+    "forename": "Urban",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:15Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/115801103"
+    },
+    "@type": "person",
+    "variantName": [
+      "Urbanus Gaubisius",
+      "Urbanus Kaubisius",
+      "Urbanus Kaubisch",
+      "Urbann Gaubisch",
+      "Urbanus Gubisius",
+      "Urban Kaubisch"
+    ],
+    "dateOfBirth": "1527",
+    "dateOfDeath": "1612",
+    "placeOfBirth": [
+      {
+        "preferredName": "Ortrand (Lausitz)"
+      }
+    ],
+    "placeOfDeath": [
+      {
+        "@id": "https://d-nb.info/gnd/4092450-6",
+        "preferredName": "Eisleben"
+      }
+    ],
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4092450-6",
+        "preferredName": "Eisleben"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      }
+    ],
+    "professionOrOccupation": [
+      {
+        "@id": "https://d-nb.info/gnd/4146801-6",
+        "preferredName": "Buchdrucker"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4013091-5",
+        "preferredName": "Drucker"
+      }
+    ],
+    "biographicalOrHistoricalInformation": "Buchdrucker in Eisleben",
+    "affiliation": [
+      {
+        "@id": "https://d-nb.info/gnd/1047549700",
+        "preferredName": "Officina Typographica Urbani Gubisii"
+      }
+    ],
+    "relatedPerson": [
+      {
+        "relationship": "VD-16 Mitverf.",
+        "preferredName": "Wolfgang Büttner"
+      },
+      {
+        "relationship": "VD-16 Mitverf.",
+        "preferredName": "Hieronymus Menzel, der Ältere"
+      },
+      {
+        "relationship": "Sorau; VD-16 Mitverf.",
+        "preferredName": "Michael Neander"
+      },
+      {
+        "relationship": "VD-16 Mitverf.",
+        "preferredName": "Heinrich Roth"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/118677446",
+        "relationship": "VD-16 Mitverf.",
+        "preferredName": "Martin Crusius"
+      },
+      {
+        "relationship": "VD-16 Mitverf.",
+        "preferredName": "Georg Fabricius"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/119748630",
+        "relationship": "VD-16 Mitverf.",
+        "preferredName": "Johannes Lundorp"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/129919268",
+        "relationship": "VD-16 Mitverf.",
+        "preferredName": "Zacharias Praetorius"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/124715176",
+        "relationship": "VD-16 Mitverf.",
+        "preferredName": "Anton Probus"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/116390387",
+        "relationship": "VD-16 Mitverf.",
+        "preferredName": "Georg Regebrand"
+      }
+    ],
+    "familialRelationship": [
+      {
+        "@id": "https://d-nb.info/gnd/120473569",
+        "relationship": "Sohn",
+        "preferredName": "Jakob Gaubisch"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/115801103/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "http://www.deutsche-biographie.de/pnd115801103.html#adbcontent",
+        "collection": {
+          "abbr": "ADB",
+          "name": "Allgemeine Deutsche Biographie (ADB)",
+          "publisher": "Historische Kommission bei der Bayerischen Akademie der Wissenschaften und Bayerische Staatsbibliothek",
+          "icon": "https://www.deutsche-biographie.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://www.deutsche-biographie.de/pnd115801103.html#ndbcontent",
+        "collection": {
+          "abbr": "NDB",
+          "name": "Neue Deutsche Biographie (NDB)",
+          "publisher": "Historische Kommission bei der Bayerischen Akademie der Wissenschaften und Bayerische Staatsbibliothek",
+          "icon": "https://www.deutsche-biographie.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://www.portraitindex.de/dokumente/pnd/115801103",
+        "collection": {
+          "abbr": "Portraitindex",
+          "name": "Digitaler Portraitindex der druckgraphischen Bildnisse der Frühen Neuzeit",
+          "publisher": "Deutsches Dokumentationszentrum für Kunstgeschichte - Bildarchiv Foto Marburg",
+          "icon": "http://www.portraitindex.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "https://de.wikipedia.org/wiki/Urban_Gaubisch",
+        "collection": {
+          "abbr": "dewiki",
+          "name": "Wikipedia (Deutsch)",
+          "publisher": "Wikimedia Foundation Inc.",
+          "icon": "https://de.wikipedia.org/static/favicon/wikipedia.ico"
+        }
+      },
+      {
+        "@id": "https://kalliope-verbund.info/gnd/115801103",
+        "collection": {
+          "abbr": "DE-611",
+          "name": "Kalliope Verbundkatalog",
+          "publisher": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/115801103",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://id.loc.gov/rwo/agents/no2007005238",
+        "collection": {
+          "abbr": "LC",
+          "name": "NACO Authority File",
+          "publisher": "Library of Congress",
+          "icon": "http://www.loc.gov/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://isni.org/isni/0000000110627278",
+        "collection": {
+          "abbr": "ISNI",
+          "name": "International Standard Name Identifier (ISNI)",
+          "publisher": "International Standard Name Identifier (ISNI)",
+          "icon": "http://www.isni.org/sites/default/files/isni_new_favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/52428931",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q55122747",
+        "collection": {
+          "abbr": "WIKIDATA",
+          "name": "Wikidata",
+          "publisher": "Wikimedia Foundation Inc.",
+          "icon": "https://www.wikidata.org/static/favicon/wikidata.ico"
+        }
+      }
+    ]
+  },
+  "136709524": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/136709524",
+    "preferredName": "Achatius Lieskau",
+    "surname": "Lieskau",
+    "forename": "Achatius",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:15Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/136709524"
+    },
+    "@type": "person",
+    "variantName": [
+      "Achatius Liscanus"
+    ],
+    "dateOfDeath": "1594",
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE",
+        "preferredName": "Deutschland"
+      }
+    ],
+    "professionOrOccupation": [
+      {
+        "@id": "https://d-nb.info/gnd/4013091-5",
+        "preferredName": "Drucker"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/136709524/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "http://www.deutsche-biographie.de/pnd136709524.html#adbcontent",
+        "collection": {
+          "abbr": "ADB",
+          "name": "Allgemeine Deutsche Biographie (ADB)",
+          "publisher": "Historische Kommission bei der Bayerischen Akademie der Wissenschaften und Bayerische Staatsbibliothek",
+          "icon": "https://www.deutsche-biographie.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/136709524",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://id.loc.gov/rwo/agents/no2019085706",
+        "collection": {
+          "abbr": "LC",
+          "name": "NACO Authority File",
+          "publisher": "Library of Congress",
+          "icon": "http://www.loc.gov/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/81008690",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q55125140",
+        "collection": {
+          "abbr": "WIKIDATA",
+          "name": "Wikidata",
+          "publisher": "Wikimedia Foundation Inc.",
+          "icon": "https://www.wikidata.org/static/favicon/wikidata.ico"
+        }
+      }
+    ]
+  },
+  "103753302X": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/103753302X",
+    "preferredName": "Wolfgang Meissner",
+    "surname": "Meissner",
+    "forename": "Wolfgang",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:16Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/103753302X"
+    },
+    "@type": "person",
+    "variantName": [
+      "Wolff Meisner",
+      "Wolfgang Meisner",
+      "Wolffgangus Meisnerus",
+      "Wolffgangus Meissner",
+      "Wolff Meißner",
+      "Wolffgang Meißner",
+      "Wolfgang Meißner",
+      "Wolffgangus Meißnerus"
+    ],
+    "dateOfDeath": "1617",
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4035206-7",
+        "preferredName": "Leipzig"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4066640-2",
+        "preferredName": "Wittenberg"
+      },
+      {
+        "preferredName": "Halle"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#ZZ",
+        "preferredName": "Land unbekannt"
+      }
+    ],
+    "gender": {
+      "@id": "https://d-nb.info/standards/vocab/gnd/gender#male",
+      "label": "Mann"
+    },
+    "affiliation": [
+      {
+        "@id": "https://d-nb.info/gnd/6147526-9",
+        "preferredName": "Wolfgang Meissner Erben"
+      },
+      {
+        "preferredName": "Typis Abrahami Lambergi (Leipzig)"
+      },
+      {
+        "preferredName": "Typis Meisnerianis (Wittenberg)"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/103753302X/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "http://catalogue.bnf.fr/ark:/12148/cb12230810x",
+        "collection": {
+          "abbr": "BNF",
+          "name": "Bibliothèque nationale de France",
+          "publisher": "Bibliothèque nationale de France",
+          "icon": "https://www.bnf.fr/themes/custom/bnfsi/favicon.ico"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/103753302X",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://id.loc.gov/rwo/agents/nr97042496",
+        "collection": {
+          "abbr": "LC",
+          "name": "NACO Authority File",
+          "publisher": "Library of Congress",
+          "icon": "http://www.loc.gov/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://isni.org/isni/0000000083873245",
+        "collection": {
+          "abbr": "ISNI",
+          "name": "International Standard Name Identifier (ISNI)",
+          "publisher": "International Standard Name Identifier (ISNI)",
+          "icon": "http://www.isni.org/sites/default/files/isni_new_favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/61598408",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q95336826",
+        "collection": {
+          "abbr": "WIKIDATA",
+          "name": "Wikidata",
+          "publisher": "Wikimedia Foundation Inc.",
+          "icon": "https://www.wikidata.org/static/favicon/wikidata.ico"
+        }
+      }
+    ]
+  },
+  "1037524675": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/1037524675",
+    "preferredName": "Paul Gräber",
+    "surname": "Gräber",
+    "forename": "Paul",
+    "periodOfActivity": "1596–1614",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:16Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/1037524675"
+    },
+    "@type": "person",
+    "variantName": [
+      "Paulus Graeberus",
+      "Paulus Gräberus",
+      "Paul Greber",
+      "Paull Greber",
+      "Paull Gräber",
+      "Paulus Greberus",
+      "Paul Grebius",
+      "Paulus Grebius"
+    ],
+    "dateOfBirth": "15XX",
+    "dateOfDeath": "16XX",
+    "placeOfBirth": [
+      {
+        "@id": "https://d-nb.info/gnd/4070126-8",
+        "preferredName": "Cottbus"
+      }
+    ],
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE",
+        "preferredName": "Deutschland"
+      }
+    ],
+    "professionOrOccupation": [
+      {
+        "@id": "https://d-nb.info/gnd/4013091-5",
+        "preferredName": "Drucker"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/1037524675/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/1037524675",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/304944533",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "104298065": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/104298065",
+    "preferredName": "Johannes Rockstedius",
+    "surname": "Rockstedius",
+    "forename": "Johannes",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:17Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/104298065"
+    },
+    "@type": "person",
+    "variantName": [
+      "Johann Rocksted",
+      "Johann Rockstedt",
+      "Johannes Rocksted",
+      "Johannes Rockstedt",
+      "Johannes Rockstädt",
+      "Johann Rockstädt"
+    ],
+    "biographicalOrHistoricalInformation": "Bürger und Buchdrucker in Halle, Ehemann von Anna Leuder (IDN 104298073)",
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/104298065/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/29965759",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "1037529243": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/1037529243",
+    "preferredName": "Johann Erasmus Hynitzsch",
+    "surname": "Hynitzsch",
+    "forename": "Johann Erasmus",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:17Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/1037529243"
+    },
+    "@type": "person",
+    "variantName": [
+      "Johann Erasmus Hynitzsch, der Jüngere"
+    ],
+    "dateOfBirth": "1643",
+    "dateOfDeath": "1709",
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4022987-7",
+        "preferredName": "Halberstadt"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE",
+        "preferredName": "Deutschland"
+      }
+    ],
+    "professionOrOccupation": [
+      {
+        "@id": "https://d-nb.info/gnd/4146801-6",
+        "preferredName": "Buchdrucker"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4013091-5",
+        "preferredName": "Drucker"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4138343-6",
+        "preferredName": "Verleger"
+      }
+    ],
+    "biographicalOrHistoricalInformation": "Tätig bei: Andreas Kolwald Erben <Halberstadt> - als Faktor : 1665-1668",
+    "affiliation": [
+      {
+        "@id": "https://d-nb.info/gnd/6145778-4",
+        "preferredName": "Johann Erasmus Hynitzsch Erben"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1053416903",
+        "preferredName": "Hynitzschens Druckerey"
+      }
+    ],
+    "familialRelationship": [
+      {
+        "@id": "https://d-nb.info/gnd/129124990",
+        "relationship": "Vater",
+        "preferredName": "Johann Erasmus Hynitzsch"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/105341904X",
+        "relationship": "Ehefrau",
+        "preferredName": "Sophia Hynitzsch"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1042686572",
+        "relationship": "Tochter",
+        "preferredName": "Sophia Lange"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/1037529243/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/1037529243",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/304944953",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "1037504070": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/1037504070",
+    "preferredName": "Christoph Bißmarck",
+    "surname": "Bißmarck",
+    "forename": "Christoph",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:18Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/1037504070"
+    },
+    "@type": "person",
+    "variantName": [
+      "Christoff Bismarck",
+      "Christoph Bismarck",
+      "Christophorus Bismarcus",
+      "Christoff Bißmarck",
+      "Christophorus Bißmarck"
+    ],
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE",
+        "preferredName": "Deutschland"
+      }
+    ],
+    "professionOrOccupation": [
+      {
+        "@id": "https://d-nb.info/gnd/4013091-5",
+        "preferredName": "Drucker"
+      }
+    ],
+    "relatedPerson": [
+      {
+        "@id": "https://d-nb.info/gnd/1037504089",
+        "preferredName": "Christoph Bißmarck, Witwe"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/1037504070/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/1037504070",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/311340968",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "1037504089": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/1037504089",
+    "preferredName": "Christoph Bißmarck, Witwe",
+    "surname": "Bißmarck, Witwe",
+    "forename": "Christoph",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:18Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/1037504089"
+    },
+    "@type": "person",
+    "variantName": [
+      "Christoph Bismarck, Witwe",
+      "Ursula Bismarck",
+      "Christophorus Bißmarck, Witwe",
+      "Ursula Bißmarck",
+      "... Guismarco"
+    ],
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      }
+    ],
+    "relatedPerson": [
+      {
+        "@id": "https://d-nb.info/gnd/1037504070",
+        "preferredName": "Christoph Bißmarck"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/1037504089/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/1037504089",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/304942716",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "1037502094": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/1037502094",
+    "preferredName": "Peter Schmidt",
+    "surname": "Schmidt",
+    "forename": "Peter",
+    "periodOfActivity": "1609–1641",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:19Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/1037502094"
+    },
+    "@type": "person",
+    "variantName": [
+      "Petrus Faber",
+      "Petrus Fabri",
+      "Petrus Fabrus",
+      "Peter Schmid",
+      "Peter Schmide",
+      "Petrus Schmidius",
+      "Peter Schmied",
+      "Peter Schmiede",
+      "Peter Schmieden",
+      "Peter Schmiedes",
+      "Peter Schmiedt",
+      "Peter Schmiet",
+      "Petrus Schmidt"
+    ],
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4036934-1",
+        "preferredName": "Magdeburg"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE",
+        "preferredName": "Deutschland"
+      }
+    ],
+    "professionOrOccupation": [
+      {
+        "@id": "https://d-nb.info/gnd/4146801-6",
+        "preferredName": "Buchdrucker"
+      }
+    ],
+    "affiliation": [
+      {
+        "preferredName": "Chalcographeo Schmidiano (Halle, Saale)"
+      },
+      {
+        "preferredName": "Peter Schmidt (Magdeburg; Halle, Saale)"
+      },
+      {
+        "preferredName": "Praelo Schmidiano (Halle, Saale)"
+      },
+      {
+        "preferredName": "Prelo Fabriciano (Halle, Saale)"
+      },
+      {
+        "preferredName": "Prelo Schmidiano (Halle, Saale)"
+      },
+      {
+        "preferredName": "Typis Fabricianis (Halle, Saale)"
+      },
+      {
+        "preferredName": "Typis Schmidianis (Halle, Saale)"
+      },
+      {
+        "preferredName": "Typographia Fabriciana (Halle, Saale)"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/1037502094/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/1037502094",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/304942547",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "103753381X": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/103753381X",
+    "preferredName": "Christoph Salfeld",
+    "surname": "Salfeld",
+    "forename": "Christoph",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:19Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/103753381X"
+    },
+    "@type": "person",
+    "variantName": [
+      "Christoph Salfeld, der Ältere",
+      "Christoff Salfeld, d. Ä.",
+      "Christoff Salfeld, der Ältere",
+      "Christoph Salfeld I.",
+      "Christoph Salfeld, d. Ä.",
+      "Christoff Salfeldt"
+    ],
+    "dateOfBirth": "1599",
+    "dateOfDeath": "1670",
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE",
+        "preferredName": "Deutschland"
+      }
+    ],
+    "professionOrOccupation": [
+      {
+        "@id": "https://d-nb.info/gnd/4146801-6",
+        "preferredName": "Buchdrucker"
+      }
+    ],
+    "biographicalOrHistoricalInformation": "Adresse: Neumarkt. - Zeitraum: 1625-1670 ; Adresse: Schmerstraße. - Zeitraum: 1637-1670",
+    "affiliation": [
+      {
+        "@id": "https://d-nb.info/gnd/1051036917",
+        "preferredName": "Salfeldische Druckerey"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1051037557",
+        "preferredName": "Christoph Salfeld der Ältere Erben"
+      }
+    ],
+    "familialRelationship": [
+      {
+        "@id": "https://d-nb.info/gnd/1037532015",
+        "relationship": "Ehefrau",
+        "preferredName": "Marie Salfeld"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/120436329",
+        "relationship": "Sohn",
+        "preferredName": "David Salfeld"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1037505905",
+        "relationship": "Sohn",
+        "preferredName": "Christoph Salfeld"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1037524683",
+        "relationship": "Sohn",
+        "preferredName": "Johann Andreas Salfeld"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/103753381X/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/103753381X",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://isni.org/isni/0000000416497445",
+        "collection": {
+          "abbr": "ISNI",
+          "name": "International Standard Name Identifier (ISNI)",
+          "publisher": "International Standard Name Identifier (ISNI)",
+          "icon": "http://www.isni.org/sites/default/files/isni_new_favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/304945344",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "1037532015": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/1037532015",
+    "preferredName": "Marie Salfeld",
+    "surname": "Salfeld",
+    "forename": "Marie",
+    "periodOfActivity": "1670–1699",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:20Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/1037532015"
+    },
+    "@type": "person",
+    "variantName": [
+      "Salfeldische Witwe",
+      "Salfeldische Witbe",
+      "Salfelds Witwe",
+      "Salfelds Witbe",
+      "Vidua Salfeldiana",
+      "... Salfeld, Witwe",
+      "... Salfeld, Vidua",
+      "Christoph Salfeld I., Witwe",
+      "Christoph Salfeld, Witwe",
+      "Christoph Salfeld, der Ältere, Witwe"
+    ],
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE",
+        "preferredName": "Deutschland"
+      }
+    ],
+    "professionOrOccupation": [
+      {
+        "@id": "https://d-nb.info/gnd/4564699-5",
+        "preferredName": "Buchdruckerin"
+      }
+    ],
+    "biographicalOrHistoricalInformation": "Adresse: Schmerstraße. - Zeitraum: 1670-1699?",
+    "affiliation": [
+      {
+        "@id": "https://d-nb.info/gnd/1051036917",
+        "preferredName": "Salfeldische Druckerey"
+      }
+    ],
+    "familialRelationship": [
+      {
+        "@id": "https://d-nb.info/gnd/103753381X",
+        "relationship": "Ehemann",
+        "preferredName": "Christoph Salfeld"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/120436329",
+        "relationship": "Sohn",
+        "preferredName": "David Salfeld"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1037505905",
+        "relationship": "Sohn",
+        "preferredName": "Christoph Salfeld"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1037524683",
+        "relationship": "Sohn",
+        "preferredName": "Johann Andreas Salfeld"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/1037532015/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/1037532015",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/304945189",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "123949564": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/123949564",
+    "preferredName": "Melchior Oelschlägel",
+    "surname": "Oelschlägel",
+    "forename": "Melchior",
+    "periodOfActivity": "1627–1640",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:20Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/123949564"
+    },
+    "@type": "person",
+    "variantName": [
+      "Melchior Oelschlaegel",
+      "Melchior Oelschlegel"
+    ],
+    "placeOfBirth": [
+      {
+        "@id": "https://d-nb.info/gnd/4191795-9",
+        "preferredName": "Neustadt an der Orla"
+      }
+    ],
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      }
+    ],
+    "professionOrOccupation": [
+      {
+        "@id": "https://d-nb.info/gnd/4146801-6",
+        "preferredName": "Buchdrucker"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4130948-0",
+        "preferredName": "Buchhändler"
+      }
+    ],
+    "biographicalOrHistoricalInformation": "Buchführer und Drucker in Halle; Bruder des Verlegers Michael Oelschlägel",
+    "affiliation": [
+      {
+        "@id": "https://d-nb.info/gnd/6146090-4",
+        "preferredName": "Melchior Oelschlägel Erben (Halle (Saale))"
+      }
+    ],
+    "familialRelationship": [
+      {
+        "@id": "https://d-nb.info/gnd/1037517911",
+        "relationship": "Sohn",
+        "preferredName": "Johann Melchior Oelschlägel"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/123949564/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/123949564",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/35377009",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "1037517911": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/1037517911",
+    "preferredName": "Johann Melchior Oelschlägel",
+    "surname": "Oelschlägel",
+    "forename": "Johann Melchior",
+    "periodOfActivity": "1646–1685",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:21Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/1037517911"
+    },
+    "@type": "person",
+    "variantName": [
+      "Johann Melchior Oelschlegel",
+      "Melchior Oelschlägel",
+      "Melchior Oelschlegel",
+      "Melchior Oelschlägel II.",
+      "Melchior Oelschlegel II.",
+      "Melchior Oelschlaegel"
+    ],
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4038749-5",
+        "preferredName": "Merseburg"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE",
+        "preferredName": "Deutschland"
+      }
+    ],
+    "professionOrOccupation": [
+      {
+        "@id": "https://d-nb.info/gnd/4138343-6",
+        "preferredName": "Verleger"
+      }
+    ],
+    "gender": {
+      "@id": "https://d-nb.info/standards/vocab/gnd/gender#male",
+      "label": "Mann"
+    },
+    "affiliation": [
+      {
+        "@id": "https://d-nb.info/gnd/6147529-4",
+        "preferredName": "Johann Melchior Oelschlägel Schriften (Halle (Saale))"
+      },
+      {
+        "preferredName": "Charactere Oelschlegeliano (Halle, Saale)"
+      },
+      {
+        "preferredName": "Praelo Oelschlegeliano (Halle, Saale)"
+      },
+      {
+        "preferredName": "Praelum Oelschlegelianum (Halle, Saale)"
+      },
+      {
+        "preferredName": "Prelo Oelschlegeliano (Halle, Saale)"
+      },
+      {
+        "preferredName": "Prelum Oelschlegelianum (Halle, Saale)"
+      }
+    ],
+    "familialRelationship": [
+      {
+        "@id": "https://d-nb.info/gnd/123949564",
+        "relationship": "Vater",
+        "preferredName": "Melchior Oelschlägel"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/1037517911/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/1037517911",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://isni.org/isni/000000041645391X",
+        "collection": {
+          "abbr": "ISNI",
+          "name": "International Standard Name Identifier (ISNI)",
+          "publisher": "International Standard Name Identifier (ISNI)",
+          "icon": "http://www.isni.org/sites/default/files/isni_new_favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/431146936612013780267",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "1037524713": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/1037524713",
+    "preferredName": "Johann Rappoldt",
+    "surname": "Rappoldt",
+    "forename": "Johann",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:21Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/1037524713"
+    },
+    "@type": "person",
+    "variantName": [
+      "Johannes Rappoldtus"
+    ],
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/1037524713/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/1037524713",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/304944537",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "104150033": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/104150033",
+    "preferredName": "Christian Vester",
+    "surname": "Vester",
+    "forename": "Christian",
+    "dateOfBirthAndDeath": "17. Jh.",
+    "periodOfActivity": "1661–1671",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:22Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/104150033"
+    },
+    "@type": "person",
+    "variantName": [
+      "Christianus Vesterus"
+    ],
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      }
+    ],
+    "biographicalOrHistoricalInformation": "Buchdrucker in Halle a. Sa.",
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/104150033/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/104150033",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/10276579",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "120436329": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/120436329",
+    "preferredName": "David Salfeld",
+    "surname": "Salfeld",
+    "forename": "David",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:22Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/120436329"
+    },
+    "@type": "person",
+    "variantName": [
+      "David Saalfeld"
+    ],
+    "dateOfBirth": "1652",
+    "dateOfDeath": "1686",
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4005728-8",
+        "preferredName": "Berlin"
+      }
+    ],
+    "biographicalOrHistoricalInformation": "Buchdrucker in Halle (Saale) und in Berlin ; Adresse: Halle (Saale), Neumarkt. - Zeitraum: 1670-1685",
+    "affiliation": [
+      {
+        "@id": "https://d-nb.info/gnd/1051037557",
+        "preferredName": "Christoph Salfeld der Ältere Erben"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1090699263",
+        "preferredName": "Literis Viduae Salfeldianae"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/120436329/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/120436329",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://isni.org/isni/0000000382750501",
+        "collection": {
+          "abbr": "ISNI",
+          "name": "International Standard Name Identifier (ISNI)",
+          "publisher": "International Standard Name Identifier (ISNI)",
+          "icon": "http://www.isni.org/sites/default/files/isni_new_favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/266114933",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q94803270",
+        "collection": {
+          "abbr": "WIKIDATA",
+          "name": "Wikidata",
+          "publisher": "Wikimedia Foundation Inc.",
+          "icon": "https://www.wikidata.org/static/favicon/wikidata.ico"
+        }
+      }
+    ]
+  },
+  "1037533283": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/1037533283",
+    "preferredName": "Maria Katharina Salfeld",
+    "surname": "Salfeld",
+    "forename": "Maria Katharina",
+    "periodOfActivity": "1681-1704",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:23Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/1037533283"
+    },
+    "@type": "person",
+    "variantName": [
+      "David Salfeld, Witwe",
+      "... Saalfeld, Witwe",
+      "David Saalfeld, Witwe",
+      "Johann Andreas Saalfeld",
+      "Johann Andreas Salfeld",
+      "B. Salfeldius"
+    ],
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4005728-8",
+        "preferredName": "Berlin"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4005728-8",
+        "preferredName": "Berlin"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE",
+        "preferredName": "Deutschland"
+      }
+    ],
+    "professionOrOccupation": [
+      {
+        "@id": "https://d-nb.info/gnd/4564699-5",
+        "preferredName": "Buchdruckerin"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4874349-5",
+        "preferredName": "Druckerin"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4874349-5",
+        "preferredName": "Druckerin"
+      }
+    ],
+    "biographicalOrHistoricalInformation": "Im Betrieb: Salfeld, Johann Andreas  - als Mitarbeiter : 1687-1693 ; Witwe verkaufte die Druckerei 1686 an Christoph Zeitler, rückgängig gemacht 1687; Druckerei 1704 an Johann Lorentz verkauft",
+    "affiliation": [
+      {
+        "@id": "https://d-nb.info/gnd/1052957374",
+        "preferredName": "Officina Rungiana"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1090699263",
+        "preferredName": "Literis Viduae Salfeldianae"
+      }
+    ],
+    "relatedPerson": [
+      {
+        "@id": "https://d-nb.info/gnd/139501525",
+        "preferredName": "Johann Lorenz"
+      }
+    ],
+    "familialRelationship": [
+      {
+        "@id": "https://d-nb.info/gnd/128479957",
+        "relationship": "1. Ehemann",
+        "preferredName": "Christoph Runge"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/120436329",
+        "relationship": "2. Ehemann",
+        "preferredName": "David Salfeld"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/1037533283/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/1037533283",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/304945294",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "1037524721": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/1037524721",
+    "preferredName": "Karl Walter",
+    "surname": "Walter",
+    "forename": "Karl",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:23Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/1037524721"
+    },
+    "@type": "person",
+    "variantName": [
+      "Carl Walter"
+    ],
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/1037524721/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/1037524721",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/304944538",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "1037505905": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/1037505905",
+    "preferredName": "Christoph Salfeld",
+    "surname": "Salfeld",
+    "forename": "Christoph",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:24Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/1037505905"
+    },
+    "@type": "person",
+    "variantName": [
+      "Christoph Salfeld, der Jüngere",
+      "Christoph Salfeld II.",
+      "Christoph Salfeld, d. J.",
+      "Christophorus Salfeld",
+      "Christoph Salfelden",
+      "C. Salfeldius",
+      "Christophorus Salfeldius",
+      "Christophorus Salfeldus"
+    ],
+    "dateOfBirth": "1653",
+    "dateOfDeath": "1703",
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE",
+        "preferredName": "Deutschland"
+      }
+    ],
+    "professionOrOccupation": [
+      {
+        "@id": "https://d-nb.info/gnd/4146801-6",
+        "preferredName": "Buchdrucker"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4013091-5",
+        "preferredName": "Drucker"
+      }
+    ],
+    "affiliation": [
+      {
+        "@id": "https://d-nb.info/gnd/1051036917",
+        "preferredName": "Salfeldische Druckerey"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1051037557",
+        "preferredName": "Christoph Salfeld der Ältere Erben"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1071239899",
+        "preferredName": "Christoph Salfelds Witwe und Erben"
+      }
+    ],
+    "familialRelationship": [
+      {
+        "@id": "https://d-nb.info/gnd/103753381X",
+        "relationship": "Vater",
+        "preferredName": "Christoph Salfeld"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/103751128X",
+        "relationship": "Ehefrau",
+        "preferredName": "Elisabeth Salfeld"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/1037505905/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "http://catalogue.bnf.fr/ark:/12148/cb12341118c",
+        "collection": {
+          "abbr": "BNF",
+          "name": "Bibliothèque nationale de France",
+          "publisher": "Bibliothèque nationale de France",
+          "icon": "https://www.bnf.fr/themes/custom/bnfsi/favicon.ico"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/1037505905",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://id.loc.gov/rwo/agents/no2005053260",
+        "collection": {
+          "abbr": "LC",
+          "name": "NACO Authority File",
+          "publisher": "Library of Congress",
+          "icon": "http://www.loc.gov/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://isni.org/isni/0000000108669989",
+        "collection": {
+          "abbr": "ISNI",
+          "name": "International Standard Name Identifier (ISNI)",
+          "publisher": "International Standard Name Identifier (ISNI)",
+          "icon": "http://www.isni.org/sites/default/files/isni_new_favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/7462972",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "103751128X": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/103751128X",
+    "preferredName": "Elisabeth Salfeld",
+    "surname": "Salfeld",
+    "forename": "Elisabeth",
+    "periodOfActivity": "1703–1735",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:24Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/103751128X"
+    },
+    "@type": "person",
+    "variantName": [
+      "Christoph Salfelds Witwe",
+      "Christoph Salfelds nachgel. Wittwe",
+      "Literis Christoph. Salfeldii Viduae",
+      "Vidua Christophori Salfeldii",
+      "Christoph Salfeld, Witwe",
+      "Christoph Salfeld, der Jüngere, Witwe",
+      "Christoph Salfeld, d. J., Witwe",
+      "Christophorus Salfeldius, Vidua",
+      "Christoph Salfeld, Wittwe"
+    ],
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4036934-1",
+        "preferredName": "Magdeburg"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE",
+        "preferredName": "Deutschland"
+      }
+    ],
+    "professionOrOccupation": [
+      {
+        "@id": "https://d-nb.info/gnd/4874349-5",
+        "preferredName": "Druckerin"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4266720-3",
+        "preferredName": "Verlegerin"
+      }
+    ],
+    "gender": {
+      "@id": "https://d-nb.info/standards/vocab/gnd/gender#female",
+      "label": "Frau"
+    },
+    "biographicalOrHistoricalInformation": "Bis mind. 25.06.1735 belegt (vgl. GBV: 215260260)",
+    "affiliation": [
+      {
+        "@id": "https://d-nb.info/gnd/1051036917",
+        "preferredName": "Salfeldische Druckerey"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1071239899",
+        "preferredName": "Christoph Salfelds Witwe und Erben"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/6146043-6",
+        "preferredName": "Christoph Salfeld der Jüngere Erben"
+      }
+    ],
+    "familialRelationship": [
+      {
+        "@id": "https://d-nb.info/gnd/1037505905",
+        "relationship": "Ehemann",
+        "preferredName": "Christoph Salfeld"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/103751128X/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/103751128X",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/167144647698176569744",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "1037524683": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/1037524683",
+    "preferredName": "Johann Andreas Salfeld",
+    "surname": "Salfeld",
+    "forename": "Johann Andreas",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:25Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/1037524683"
+    },
+    "@type": "person",
+    "dateOfBirth": "1665",
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4041445-0",
+        "preferredName": "Naumburg (Saale)"
+      }
+    ],
+    "biographicalOrHistoricalInformation": "Universitäts-Buchdrucker in Halle/Saale seit 1705 ; Adresse: Schmerstraße. - Zeitraum: 1693-1709",
+    "affiliation": [
+      {
+        "@id": "https://d-nb.info/gnd/1051036917",
+        "preferredName": "Salfeldische Druckerey"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1051037557",
+        "preferredName": "Christoph Salfeld der Ältere Erben"
+      }
+    ],
+    "relatedPerson": [
+      {
+        "@id": "https://d-nb.info/gnd/1037560264",
+        "preferredName": "Stephan Orban"
+      }
+    ],
+    "familialRelationship": [
+      {
+        "@id": "https://d-nb.info/gnd/103753381X",
+        "relationship": "Vater",
+        "preferredName": "Christoph Salfeld"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1037532015",
+        "relationship": "Mutter",
+        "preferredName": "Marie Salfeld"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/1037524683/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/1037524683",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/304944534",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "1037503570": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/1037503570",
+    "preferredName": "Christian Henckel",
+    "surname": "Henckel",
+    "forename": "Christian",
+    "periodOfActivity": "1694–1733",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:25Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/1037503570"
+    },
+    "@type": "person",
+    "variantName": [
+      "Chr. Henckelius",
+      "Christ. Henckelius",
+      "Christianus Henckelius",
+      "Henckel"
+    ],
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE",
+        "preferredName": "Deutschland"
+      }
+    ],
+    "professionOrOccupation": [
+      {
+        "@id": "https://d-nb.info/gnd/4146801-6",
+        "preferredName": "Buchdrucker"
+      }
+    ],
+    "gender": {
+      "@id": "https://d-nb.info/standards/vocab/gnd/gender#male",
+      "label": "Mann"
+    },
+    "biographicalOrHistoricalInformation": "Sohn des Wittenberger Buchdruckers Matthäus Henckel; lernte bei seinem Vater, kam mit der Errichtung der Univ. Halle 1694 nach Halle und richtete eine Druckerei am Moritzkirchhof ein; 1733 Verkauf der Druckerei an Johann Christoph (Johann Christian) Grunert, den Sohn des Univ.- und Ratsbuchdruckers Johann Grunert (gest. 1731)",
+    "affiliation": [
+      {
+        "@id": "https://d-nb.info/gnd/1070768189",
+        "preferredName": "Christian Henckel (Firma)"
+      }
+    ],
+    "relatedPerson": [
+      {
+        "@id": "https://d-nb.info/gnd/1037503538",
+        "preferredName": "Johann Christian Grunert"
+      }
+    ],
+    "familialRelationship": [
+      {
+        "@id": "https://d-nb.info/gnd/1037505808",
+        "relationship": "Vater",
+        "preferredName": "Matthäus Henckel"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1037530756",
+        "relationship": "Mutter",
+        "preferredName": "Matthäus Henckel, Witwe"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/1037503570/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "http://catalogue.bnf.fr/ark:/12148/cb156855275",
+        "collection": {
+          "abbr": "BNF",
+          "name": "Bibliothèque nationale de France",
+          "publisher": "Bibliothèque nationale de France",
+          "icon": "https://www.bnf.fr/themes/custom/bnfsi/favicon.ico"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/1037503570",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://id.loc.gov/rwo/agents/nb2014006324",
+        "collection": {
+          "abbr": "LC",
+          "name": "NACO Authority File",
+          "publisher": "Library of Congress",
+          "icon": "http://www.loc.gov/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://isni.org/isni/0000000363873004",
+        "collection": {
+          "abbr": "ISNI",
+          "name": "International Standard Name Identifier (ISNI)",
+          "publisher": "International Standard Name Identifier (ISNI)",
+          "icon": "http://www.isni.org/sites/default/files/isni_new_favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/226088227",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "1037505883": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/1037505883",
+    "preferredName": "Christoph Andreas Zeitler",
+    "surname": "Zeitler",
+    "forename": "Christoph Andreas",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:26Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/1037505883"
+    },
+    "@type": "person",
+    "variantName": [
+      "Christoph Andreas Zeidler",
+      "Christophorus Andreas Zeitlerus",
+      "Christoph. Andreas Zeitlerus",
+      "Christoph. Andreæ Zeitlerus",
+      "Christophorus Andreas Zietlerus"
+    ],
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4018122-4",
+        "preferredName": "Frankfurt (Oder)"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE",
+        "preferredName": "Deutschland"
+      }
+    ],
+    "professionOrOccupation": [
+      {
+        "@id": "https://d-nb.info/gnd/4146801-6",
+        "preferredName": "Buchdrucker"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4013091-5",
+        "preferredName": "Drucker"
+      }
+    ],
+    "gender": {
+      "@id": "https://d-nb.info/standards/vocab/gnd/gender#male",
+      "label": "Mann"
+    },
+    "biographicalOrHistoricalInformation": "Nachf. Schwiegersohn Johann Friedrich Krottendorf. Als Miterbe Stephan Orbans verkaufte Zeitler dessen zweite Druckerei 1733 an Johann Heinrich Grunert ; entgegen Paisey u. Reske (dort Wirkungszeitraum bis 1718) sind Titel mit Zeitler als genannter Drucker bis 1721, als Firma sogar für das Jahr 1727 nachgewiesen",
+    "affiliation": [
+      {
+        "@id": "https://d-nb.info/gnd/1071340395",
+        "preferredName": "Christoph Andreas Zeitler (Firma)"
+      }
+    ],
+    "familialRelationship": [
+      {
+        "@id": "https://d-nb.info/gnd/1037566300",
+        "relationship": "Schwiegersohn",
+        "preferredName": "Johann Friedrich Krottendorf"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/1037505883/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/1037505883",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/304942869",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "103752473X": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/103752473X",
+    "preferredName": "Josua Stegmann",
+    "surname": "Stegmann",
+    "forename": "Josua",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:26Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/103752473X"
+    },
+    "@type": "person",
+    "variantName": [
+      "Stanno Stegmanniano",
+      "Josua Stegmannus"
+    ],
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/103752473X/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/103752473X",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://id.loc.gov/rwo/agents/no2020045391",
+        "collection": {
+          "abbr": "LC",
+          "name": "NACO Authority File",
+          "publisher": "Library of Congress",
+          "icon": "http://www.loc.gov/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/304944539",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "128460334": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/128460334",
+    "preferredName": "Andreas Luppius",
+    "surname": "Luppius",
+    "forename": "Andreas",
+    "periodOfActivity": "1684–1703",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:27Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/128460334"
+    },
+    "@type": "person",
+    "variantName": [
+      "Andreas Luppe",
+      "Luppius",
+      "A. L.",
+      "Andreas Lupius"
+    ],
+    "dateOfBirth": "1654",
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4013284-5",
+        "preferredName": "Duisburg"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4075410-8",
+        "preferredName": "Nimwegen"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4065697-4",
+        "preferredName": "Wesel"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4087306-7",
+        "preferredName": "Berlin-Charlottenburg"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4001783-7",
+        "preferredName": "Amsterdam"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE",
+        "preferredName": "Deutschland"
+      },
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-NL",
+        "preferredName": "Niederlande"
+      }
+    ],
+    "professionOrOccupation": [
+      {
+        "@id": "https://d-nb.info/gnd/4130948-0",
+        "preferredName": "Buchhändler"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4138343-6",
+        "preferredName": "Verleger"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4013091-5",
+        "preferredName": "Drucker"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/128460334/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "http://www.deutsche-biographie.de/pnd128460334.html#adbcontent",
+        "collection": {
+          "abbr": "ADB",
+          "name": "Allgemeine Deutsche Biographie (ADB)",
+          "publisher": "Historische Kommission bei der Bayerischen Akademie der Wissenschaften und Bayerische Staatsbibliothek",
+          "icon": "https://www.deutsche-biographie.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://www.portraitindex.de/dokumente/pnd/128460334",
+        "collection": {
+          "abbr": "Portraitindex",
+          "name": "Digitaler Portraitindex der druckgraphischen Bildnisse der Frühen Neuzeit",
+          "publisher": "Deutsches Dokumentationszentrum für Kunstgeschichte - Bildarchiv Foto Marburg",
+          "icon": "http://www.portraitindex.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "https://de.wikipedia.org/wiki/Andreas_Luppius",
+        "collection": {
+          "abbr": "dewiki",
+          "name": "Wikipedia (Deutsch)",
+          "publisher": "Wikimedia Foundation Inc.",
+          "icon": "https://de.wikipedia.org/static/favicon/wikipedia.ico"
+        }
+      },
+      {
+        "@id": "https://kalliope-verbund.info/gnd/128460334",
+        "collection": {
+          "abbr": "DE-611",
+          "name": "Kalliope Verbundkatalog",
+          "publisher": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/128460334",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/300557489",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q499349",
+        "collection": {
+          "abbr": "WIKIDATA",
+          "name": "Wikidata",
+          "publisher": "Wikimedia Foundation Inc.",
+          "icon": "https://www.wikidata.org/static/favicon/wikidata.ico"
+        }
+      }
+    ]
+  },
+  "1037505875": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/1037505875",
+    "preferredName": "Johann Jakob Krebs",
+    "surname": "Krebs",
+    "forename": "Johann Jakob",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:27Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/1037505875"
+    },
+    "@type": "person",
+    "variantName": [
+      "Johann Jacob Krebs",
+      "Jo. Jacobus Krebsius",
+      "Joannes Jacobus Krebsius",
+      "Johannes Jacobus Krebsius"
+    ],
+    "dateOfBirth": "1658",
+    "dateOfDeath": "1716",
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE",
+        "preferredName": "Deutschland"
+      }
+    ],
+    "professionOrOccupation": [
+      {
+        "@id": "https://d-nb.info/gnd/4146801-6",
+        "preferredName": "Buchdrucker"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4013091-5",
+        "preferredName": "Drucker"
+      }
+    ],
+    "gender": {
+      "@id": "https://d-nb.info/standards/vocab/gnd/gender#male",
+      "label": "Mann"
+    },
+    "biographicalOrHistoricalInformation": "Hat die Druckerei von Josua Stegmann gekauft. Krebs' Witwe heiratete 1717 ihren Faktor Johann Christian Hendel",
+    "affiliation": [
+      {
+        "@id": "https://d-nb.info/gnd/1073706265",
+        "preferredName": "Johann Jakob Krebs (Firma)"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1139919342",
+        "preferredName": "Officina Krebsiana"
+      }
+    ],
+    "relatedPerson": [
+      {
+        "@id": "https://d-nb.info/gnd/1037497406",
+        "preferredName": "Johann Christian Hendel"
+      }
+    ],
+    "familialRelationship": [
+      {
+        "@id": "https://d-nb.info/gnd/1020857234",
+        "relationship": "Vater",
+        "preferredName": "Samuel Krebs"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1139919806",
+        "relationship": "Mutter",
+        "preferredName": "Anne Maria Krebs"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1037504046",
+        "relationship": "Bruder",
+        "preferredName": "Christoph Krebs"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1066355215",
+        "relationship": "Ehefrau",
+        "preferredName": "Johann Christian Hendel, Witwe"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/1037505875/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/1037505875",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://id.loc.gov/rwo/agents/n2015062369",
+        "collection": {
+          "abbr": "LC",
+          "name": "NACO Authority File",
+          "publisher": "Library of Congress",
+          "icon": "http://www.loc.gov/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://isni.org/isni/000000037106790X",
+        "collection": {
+          "abbr": "ISNI",
+          "name": "International Standard Name Identifier (ISNI)",
+          "publisher": "International Standard Name Identifier (ISNI)",
+          "icon": "http://www.isni.org/sites/default/files/isni_new_favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/250528236",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      }
+    ]
+  },
+  "1037495748": {
+    "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
+    "@id": "https://d-nb.info/gnd/1037495748",
+    "preferredName": "Johann Grunert",
+    "surname": "Grunert",
+    "forename": "Johann",
+    "describedBy": {
+      "valid": "2020-08-11T03:04:28Z",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "@id": "https://hub.culturegraph.org/entityfacts/1037495748"
+    },
+    "@type": "person",
+    "variantName": [
+      "Ioannes Gruner",
+      "Joannes Gruner",
+      "Johann Gruner",
+      "Johannes Grunerius",
+      "Iohannes Grunerius",
+      "Ioannes Grunertus",
+      "Joannes Grunertus",
+      "Ioannes Grunerus",
+      "Joannes Grunerus",
+      "Johannes Grunerus",
+      "Joh. Grunert"
+    ],
+    "dateOfBirth": "1666",
+    "dateOfDeath": "1731",
+    "placeOfActivity": [
+      {
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
+      }
+    ],
+    "associatedCountry": [
+      {
+        "@id": "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE",
+        "preferredName": "Deutschland"
+      }
+    ],
+    "professionOrOccupation": [
+      {
+        "@id": "https://d-nb.info/gnd/4146801-6",
+        "preferredName": "Buchdrucker"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4013091-5",
+        "preferredName": "Drucker"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4063004-3",
+        "preferredName": "Verlag"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/4130948-0",
+        "preferredName": "Buchhändler"
+      }
+    ],
+    "gender": {
+      "@id": "https://d-nb.info/standards/vocab/gnd/gender#male",
+      "label": "Mann"
+    },
+    "affiliation": [
+      {
+        "@id": "https://d-nb.info/gnd/6146591-4",
+        "preferredName": "Johann Grunert Erben"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1042425191",
+        "preferredName": "Officina Grunertiana"
+      }
+    ],
+    "familialRelationship": [
+      {
+        "@id": "https://d-nb.info/gnd/1037503538",
+        "relationship": "Sohn",
+        "preferredName": "Johann Christian Grunert"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/1037500148",
+        "relationship": "Sohn",
+        "preferredName": "Johann Friedrich Grunert"
+      },
+      {
+        "@id": "https://d-nb.info/gnd/102531862",
+        "relationship": "Sohn",
+        "preferredName": "Johann Heinrich Grunert"
+      }
+    ],
+    "sameAs": [
+      {
+        "@id": "https://d-nb.info/gnd/1037495748/about",
+        "collection": {
+          "abbr": "DNB",
+          "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
+          "publisher": "Deutsche Nationalbibliothek",
+          "icon": "https://www.dnb.de/SiteGlobals/Frontend/DNBWeb/Images/favicon.png?__blob=normal&v=4"
+        }
+      },
+      {
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/1037495748",
+        "collection": {
+          "abbr": "DDB",
+          "name": "Deutsche Digitale Bibliothek",
+          "publisher": "Deutsche Digitale Bibliothek",
+          "icon": "https://www.deutsche-digitale-bibliothek.de/favicon.ico"
+        }
+      },
+      {
+        "@id": "http://isni.org/isni/0000000001923369",
+        "collection": {
+          "abbr": "ISNI",
+          "name": "International Standard Name Identifier (ISNI)",
+          "publisher": "International Standard Name Identifier (ISNI)",
+          "icon": "http://www.isni.org/sites/default/files/isni_new_favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/36970098",
+        "collection": {
+          "abbr": "VIAF",
+          "name": "Virtual International Authority File (VIAF)",
+          "publisher": "OCLC",
+          "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q94921236",
+        "collection": {
+          "abbr": "WIKIDATA",
+          "name": "Wikidata",
+          "publisher": "Wikimedia Foundation Inc.",
+          "icon": "https://www.wikidata.org/static/favicon/wikidata.ico"
+        }
+      }
+    ]
+  }
+}
