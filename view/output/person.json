@@ -6,7 +6,7 @@
     "surname": "Stöckel",
     "forename": "Wolfgang",
     "describedBy": {
-      "valid": "2020-08-11T03:04:14Z",
+      "valid": "2020-08-11T12:48:35Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/119837692"
     },
@@ -169,7 +169,7 @@
     "surname": "Frischmut",
     "forename": "Hans",
     "describedBy": {
-      "valid": "2020-08-11T03:04:14Z",
+      "valid": "2020-08-11T12:48:37Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/1037540638"
     },
@@ -242,7 +242,7 @@
     "surname": "Gaubisch",
     "forename": "Urban",
     "describedBy": {
-      "valid": "2020-08-11T03:04:15Z",
+      "valid": "2020-08-11T12:48:37Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/115801103"
     },
@@ -457,7 +457,7 @@
     "surname": "Lieskau",
     "forename": "Achatius",
     "describedBy": {
-      "valid": "2020-08-11T03:04:15Z",
+      "valid": "2020-08-11T12:48:38Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/136709524"
     },
@@ -548,7 +548,7 @@
     "surname": "Meissner",
     "forename": "Wolfgang",
     "describedBy": {
-      "valid": "2020-08-11T03:04:16Z",
+      "valid": "2020-08-11T12:48:38Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/103753302X"
     },
@@ -673,7 +673,7 @@
     "forename": "Paul",
     "periodOfActivity": "1596–1614",
     "describedBy": {
-      "valid": "2020-08-11T03:04:16Z",
+      "valid": "2020-08-11T12:48:39Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/1037524675"
     },
@@ -751,7 +751,7 @@
     "surname": "Rockstedius",
     "forename": "Johannes",
     "describedBy": {
-      "valid": "2020-08-11T03:04:17Z",
+      "valid": "2020-08-11T12:48:40Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/104298065"
     },
@@ -786,27 +786,30 @@
       }
     ]
   },
-  "1037529243": {
+  "1037532902": {
     "@context": "https://hub.culturegraph.org/entityfacts/context/v1/entityfacts.jsonld",
-    "@id": "https://d-nb.info/gnd/1037529243",
-    "preferredName": "Johann Erasmus Hynitzsch",
+    "@id": "https://d-nb.info/gnd/1037532902",
+    "preferredName": "Erasmus Hynitzsch",
     "surname": "Hynitzsch",
-    "forename": "Johann Erasmus",
+    "forename": "Erasmus",
     "describedBy": {
-      "valid": "2020-08-11T03:04:17Z",
+      "valid": "2020-08-11T12:48:41Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "@id": "https://hub.culturegraph.org/entityfacts/1037529243"
+      "@id": "https://hub.culturegraph.org/entityfacts/1037532902"
     },
     "@type": "person",
     "variantName": [
-      "Johann Erasmus Hynitzsch, der Jüngere"
+      "Erasmus Hinitz",
+      "Erasmus Hinitzsch",
+      "Erasmus Hynitz",
+      "Erasmus Hynitzich",
+      "Erasmus Hynitzius"
     ],
-    "dateOfBirth": "1643",
-    "dateOfDeath": "1709",
+    "dateOfDeath": "1611",
     "placeOfActivity": [
       {
-        "@id": "https://d-nb.info/gnd/4022987-7",
-        "preferredName": "Halberstadt"
+        "@id": "https://d-nb.info/gnd/4023025-9",
+        "preferredName": "Halle (Saale)"
       }
     ],
     "associatedCountry": [
@@ -815,51 +818,9 @@
         "preferredName": "Deutschland"
       }
     ],
-    "professionOrOccupation": [
-      {
-        "@id": "https://d-nb.info/gnd/4146801-6",
-        "preferredName": "Buchdrucker"
-      },
-      {
-        "@id": "https://d-nb.info/gnd/4013091-5",
-        "preferredName": "Drucker"
-      },
-      {
-        "@id": "https://d-nb.info/gnd/4138343-6",
-        "preferredName": "Verleger"
-      }
-    ],
-    "biographicalOrHistoricalInformation": "Tätig bei: Andreas Kolwald Erben <Halberstadt> - als Faktor : 1665-1668",
-    "affiliation": [
-      {
-        "@id": "https://d-nb.info/gnd/6145778-4",
-        "preferredName": "Johann Erasmus Hynitzsch Erben"
-      },
-      {
-        "@id": "https://d-nb.info/gnd/1053416903",
-        "preferredName": "Hynitzschens Druckerey"
-      }
-    ],
-    "familialRelationship": [
-      {
-        "@id": "https://d-nb.info/gnd/129124990",
-        "relationship": "Vater",
-        "preferredName": "Johann Erasmus Hynitzsch"
-      },
-      {
-        "@id": "https://d-nb.info/gnd/105341904X",
-        "relationship": "Ehefrau",
-        "preferredName": "Sophia Hynitzsch"
-      },
-      {
-        "@id": "https://d-nb.info/gnd/1042686572",
-        "relationship": "Tochter",
-        "preferredName": "Sophia Lange"
-      }
-    ],
     "sameAs": [
       {
-        "@id": "https://d-nb.info/gnd/1037529243/about",
+        "@id": "https://d-nb.info/gnd/1037532902/about",
         "collection": {
           "abbr": "DNB",
           "name": "Gemeinsame Normdatei (GND) im Katalog der Deutschen Nationalbibliothek",
@@ -868,7 +829,7 @@
         }
       },
       {
-        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/1037529243",
+        "@id": "https://www.deutsche-digitale-bibliothek.de/person/gnd/1037532902",
         "collection": {
           "abbr": "DDB",
           "name": "Deutsche Digitale Bibliothek",
@@ -877,12 +838,30 @@
         }
       },
       {
-        "@id": "http://viaf.org/viaf/304944953",
+        "@id": "http://isni.org/isni/0000000392012596",
+        "collection": {
+          "abbr": "ISNI",
+          "name": "International Standard Name Identifier (ISNI)",
+          "publisher": "International Standard Name Identifier (ISNI)",
+          "icon": "http://www.isni.org/sites/default/files/isni_new_favicon.ico"
+        }
+      },
+      {
+        "@id": "http://viaf.org/viaf/285933259",
         "collection": {
           "abbr": "VIAF",
           "name": "Virtual International Authority File (VIAF)",
           "publisher": "OCLC",
           "icon": "http://viaf.org/viaf/images/viaf.ico"
+        }
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q55935981",
+        "collection": {
+          "abbr": "WIKIDATA",
+          "name": "Wikidata",
+          "publisher": "Wikimedia Foundation Inc.",
+          "icon": "https://www.wikidata.org/static/favicon/wikidata.ico"
         }
       }
     ]
@@ -894,7 +873,7 @@
     "surname": "Bißmarck",
     "forename": "Christoph",
     "describedBy": {
-      "valid": "2020-08-11T03:04:18Z",
+      "valid": "2020-08-11T12:48:43Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/1037504070"
     },
@@ -967,7 +946,7 @@
     "surname": "Bißmarck, Witwe",
     "forename": "Christoph",
     "describedBy": {
-      "valid": "2020-08-11T03:04:18Z",
+      "valid": "2020-08-11T12:48:45Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/1037504089"
     },
@@ -1029,7 +1008,7 @@
     "forename": "Peter",
     "periodOfActivity": "1609–1641",
     "describedBy": {
-      "valid": "2020-08-11T03:04:19Z",
+      "valid": "2020-08-11T12:48:45Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/1037502094"
     },
@@ -1134,7 +1113,7 @@
     "surname": "Salfeld",
     "forename": "Christoph",
     "describedBy": {
-      "valid": "2020-08-11T03:04:19Z",
+      "valid": "2020-08-11T12:49:56Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/103753381X"
     },
@@ -1247,7 +1226,7 @@
     "forename": "Marie",
     "periodOfActivity": "1670–1699",
     "describedBy": {
-      "valid": "2020-08-11T03:04:20Z",
+      "valid": "2020-08-11T12:49:56Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/1037532015"
     },
@@ -1349,7 +1328,7 @@
     "forename": "Melchior",
     "periodOfActivity": "1627–1640",
     "describedBy": {
-      "valid": "2020-08-11T03:04:20Z",
+      "valid": "2020-08-11T12:49:57Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/123949564"
     },
@@ -1432,7 +1411,7 @@
     "forename": "Johann Melchior",
     "periodOfActivity": "1646–1685",
     "describedBy": {
-      "valid": "2020-08-11T03:04:21Z",
+      "valid": "2020-08-11T12:49:58Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/1037517911"
     },
@@ -1545,7 +1524,7 @@
     "surname": "Rappoldt",
     "forename": "Johann",
     "describedBy": {
-      "valid": "2020-08-11T03:04:21Z",
+      "valid": "2020-08-11T12:49:58Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/1037524713"
     },
@@ -1598,7 +1577,7 @@
     "dateOfBirthAndDeath": "17. Jh.",
     "periodOfActivity": "1661–1671",
     "describedBy": {
-      "valid": "2020-08-11T03:04:22Z",
+      "valid": "2020-08-11T12:50:00Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/104150033"
     },
@@ -1650,7 +1629,7 @@
     "surname": "Salfeld",
     "forename": "David",
     "describedBy": {
-      "valid": "2020-08-11T03:04:22Z",
+      "valid": "2020-08-11T12:50:01Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/120436329"
     },
@@ -1737,7 +1716,7 @@
     "forename": "Maria Katharina",
     "periodOfActivity": "1681-1704",
     "describedBy": {
-      "valid": "2020-08-11T03:04:23Z",
+      "valid": "2020-08-11T12:50:01Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/1037533283"
     },
@@ -1846,7 +1825,7 @@
     "surname": "Walter",
     "forename": "Karl",
     "describedBy": {
-      "valid": "2020-08-11T03:04:23Z",
+      "valid": "2020-08-11T12:50:02Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/1037524721"
     },
@@ -1897,7 +1876,7 @@
     "surname": "Salfeld",
     "forename": "Christoph",
     "describedBy": {
-      "valid": "2020-08-11T03:04:24Z",
+      "valid": "2020-08-11T12:50:03Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/1037505905"
     },
@@ -2027,7 +2006,7 @@
     "forename": "Elisabeth",
     "periodOfActivity": "1703–1735",
     "describedBy": {
-      "valid": "2020-08-11T03:04:24Z",
+      "valid": "2020-08-11T12:50:03Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/103751128X"
     },
@@ -2132,7 +2111,7 @@
     "surname": "Salfeld",
     "forename": "Johann Andreas",
     "describedBy": {
-      "valid": "2020-08-11T03:04:25Z",
+      "valid": "2020-08-11T12:50:05Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/1037524683"
     },
@@ -2215,7 +2194,7 @@
     "forename": "Christian",
     "periodOfActivity": "1694–1733",
     "describedBy": {
-      "valid": "2020-08-11T03:04:25Z",
+      "valid": "2020-08-11T12:50:08Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/1037503570"
     },
@@ -2337,7 +2316,7 @@
     "surname": "Zeitler",
     "forename": "Christoph Andreas",
     "describedBy": {
-      "valid": "2020-08-11T03:04:26Z",
+      "valid": "2020-08-11T12:50:09Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/1037505883"
     },
@@ -2430,7 +2409,7 @@
     "surname": "Stegmann",
     "forename": "Josua",
     "describedBy": {
-      "valid": "2020-08-11T03:04:26Z",
+      "valid": "2020-08-11T12:50:09Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/103752473X"
     },
@@ -2492,7 +2471,7 @@
     "forename": "Andreas",
     "periodOfActivity": "1684–1703",
     "describedBy": {
-      "valid": "2020-08-11T03:04:27Z",
+      "valid": "2020-08-11T12:50:10Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/128460334"
     },
@@ -2635,7 +2614,7 @@
     "surname": "Krebs",
     "forename": "Johann Jakob",
     "describedBy": {
-      "valid": "2020-08-11T03:04:27Z",
+      "valid": "2020-08-11T12:50:11Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/1037505875"
     },
@@ -2768,7 +2747,7 @@
     "surname": "Grunert",
     "forename": "Johann",
     "describedBy": {
-      "valid": "2020-08-11T03:04:28Z",
+      "valid": "2020-08-11T12:50:12Z",
       "license": "https://creativecommons.org/publicdomain/zero/1.0/",
       "@id": "https://hub.culturegraph.org/entityfacts/1037495748"
     },
