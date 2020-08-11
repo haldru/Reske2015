@@ -1,4 +1,4 @@
-# GND-Nummern zu Buchdruckern des 16. und 17. Jahrhunderts in Halle (Saale)
+# GND-Nummern von Buchdruckern des 16. und 17. Jahrhunderts in Halle (Saale)
 
 > [`data/gnd.json`](./data/gnd.json)
 
